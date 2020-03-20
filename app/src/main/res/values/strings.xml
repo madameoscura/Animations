@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="txtTitle">Animations Tutorial</string>
+    <string name="btnZoom">Zoom</string>
+</resources>
